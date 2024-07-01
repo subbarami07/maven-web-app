@@ -1,12 +1,12 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Ram - Software Training Institute <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://ram.com/online-training-schedules">Click Here To See Ram Training Schedules</a>
   
-  <h2> Call Us : + 9985396677</h2>
+  <h2> Call Us : + 9440270428</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Manikonda, Hyderbad </h3>
 
 </body>
 </html>
