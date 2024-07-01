@@ -4,7 +4,7 @@
 
 <a href="https://ram.com/online-training-schedules">Click Here To See Ram Training Schedules</a>
   
-  <h2> Call Us : + 9440270428</h2>
+  <h2> <font color='blue'> Call Us : + 9440270428</h2>
   
   <h3> Ofc Location : Manikonda, Hyderbad </h3>
 
